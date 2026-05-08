@@ -1,4 +1,4 @@
-
+Enhance Obsidian for macOS with Obsidian for macOS instant Plugin - collaboration and multi-device sync, the #1 plugin. Includes collaboration and multi-device sync for a smoother
 
 
 
